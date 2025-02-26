@@ -494,7 +494,7 @@ This approach is seen in file systems and RDBMSes.  Strong consistency works wel
 
 ### Source(s) and further reading
 
-* [Transactions across data centers](http://snarfed.org/transactions_across_datacenters_io.html)
+* ✅ [Transactions across data centers](http://snarfed.org/transactions_across_datacenters_io.html)
 
 ## Availability patterns
 
