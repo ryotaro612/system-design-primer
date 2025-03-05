@@ -583,7 +583,7 @@ If both `Foo` and `Bar` each had 99.9% availability, their total availability in
 <p align="center">
   <img src="images/IOyLj4i.jpg">
   <br/>
-  <i><a href=http://www.slideshare.net/srikrupa5/dns-security-presentation-issa>Source: DNS security presentation</a></i>
+  <i><a href=http://www.slideshare.net/srikrupa5/dns-security-presentation-issa>✅ Source: DNS security presentation</a></i>
 </p>
 
 A Domain Name System (DNS) translates a domain name such as www.example.com to an IP address.
